@@ -27,7 +27,7 @@ Este projeto foi desenvolvido para testar a API do CineStream, garantindo que os
 [Repositório do Projeto Cine Stream de Teste](https://github.com/dev-luizotavio/Cine-Stream-Test.git)
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/dev-luizotavio/CineStream-CucumberTest.git
+   git clone https://github.com/dev-luizotavio/Cine-Stream-Test.git
    cd cine-stream-test
    
 # Estrutura do projeto
